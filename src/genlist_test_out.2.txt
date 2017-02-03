@@ -5,4 +5,5 @@ cwd = os.getcwd()
 sys.path.append()
 
 from generate_list import printIt
+generate_list < -100
 printIt()
